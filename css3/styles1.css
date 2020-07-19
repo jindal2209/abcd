@@ -1,0 +1,79 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: pink;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 1px;
+}
+
+@media (max-width: 450px) {
+  .personal
+  {
+    margin-right: 20px
+  }
+}
+
+@media (min-width: 1050px) {
+  .personal-b
+  {
+    margin-left: -75px
+  }
+}
+#nav-list a{
+	text-align: center;
+}
+
+.navbar-header button.navbar-toggle {
+
+	margin-top: -50px ;
+}
+
+h1 {
+  color: black ;
+  font-weight: bold ;
+}
+
+h2 {
+	text-align: center;
+	color: green;
+	margin-bottom: 10px ;
+}
+
+span {
+
+	color: white;
+}
+
+p{
+   color: grey ; 
+  
+}
+
+h2 {
+	text-align: center;
+	color: black;
+	margin-bottom: 10px ;
+}
+
+
+ div.Rajat-class {
+
+
+    padding: 10px ;
+ 	background-color: gold ;
+ 	height: 1500px ;
+ 	margin-right: 50px ;
+ 	margin-left: 50px ;
+ }
+
+ section {
+ 	text-align: center; 
+    font-size: 25px ;
+    color: purple ;
+    font-style: italic;
+ }
